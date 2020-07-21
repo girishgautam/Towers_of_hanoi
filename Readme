@@ -7,7 +7,7 @@ The game follows three rules:
 * No disk may be placed on top of a smaller disk.
 
 ## Methodology 
-* OOO programming, Linked List concepts used.
+* OOP concepts(Inheritance, composition), Linked List concepts used.
 * Node Class, Stack Class and Script file created.
 
 ## Code and Resources Used
